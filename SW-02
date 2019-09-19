@@ -57,5 +57,5 @@ ip address 172.16.20.45 255.255.255.240
 description REDE - Servidores
 no shutdown
 exit
-ip default-gateway 172.16.255.253
+ip default-gateway 172.16.255.254
 do wr
